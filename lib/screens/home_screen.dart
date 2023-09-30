@@ -29,7 +29,7 @@ class HomeScreen extends StatelessWidget {
 
             const Padding(
               padding: EdgeInsets.only(right: 350),
-              child: Text("Email",
+              child: Text("email",
                 style: TextStyle(fontSize: 20,
                 fontWeight: FontWeight.bold),),
             ),
